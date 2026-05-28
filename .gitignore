@@ -1,0 +1,9 @@
+train/
+test/
+preprocessed/
+preprocessed_test/
+checkpoints/
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
