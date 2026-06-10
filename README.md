@@ -9,3 +9,5 @@ original dataset in test and train folder
 
 <img width="689" height="117" alt="Screenshot 2026-06-08 144637" src="https://github.com/user-attachments/assets/d2d6bb22-1e9c-423c-9d71-c212ca3440d6" />
 
+Link to Kaggle submitted weights:  
+https://drive.google.com/drive/folders/1xdbHavXD-2T7ftaiNFynATA3lnrDOIr7?usp=sharing  
