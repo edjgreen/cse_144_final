@@ -1,7 +1,3 @@
-train/
-test/
-preprocessed/
-preprocessed_test/
 checkpoints/
 *.pt
 *.pth
